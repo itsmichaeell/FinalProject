@@ -6,3 +6,7 @@ work2
 E-sports Event Livestreaming
 Our first live video coverage and commentary project for a local e-sports event. Our livestreaming setup was experimental but we delivered high quality feed for the whole (5 hour) tournament.
 
+work3
+Governor's Cup
+Chess Tournament "Governor's Cup" live video coverage in collaboration with MNN (Marinduque News Network). We were taken as an additional coverage team for the Chess Tournament for overseeing the live feed of the event along with MNN.
+
