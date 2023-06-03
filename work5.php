@@ -14,7 +14,7 @@
 
             <h2 class="blueText thickText biggerText">Ipil National Highschool Alumni Homecoming of Batch 1992</h2>
 
-            <p class="mediumText"></p>
+            <p class="mediumText">Booked for another photoshoot for hardcopy and softcopy of an alumni homecoming. Our new equipments were put in good use and delivered high quality renders of the event.</p>
         </article>
 
         <footer class="whiteText">
