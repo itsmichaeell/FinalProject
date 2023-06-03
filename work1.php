@@ -10,11 +10,11 @@
 
     <body>
         <article>
-            <img src="assets/img/work1.jpeg">
-
+            
+            
             <h2 class="blueText thickText biggerText">Batch 2019 Photoshoot</h2>
 
-            <p class="mediumText">One of our first major freelancing projects in our first year in the industry. We were recommended as we have 0% margin at the time, the project was a 2-day photoshoot as the development of the photos happened the next day.</p>
+            <p class="mediumText"></p>
         </article>
 
         <footer class="whiteText">
