@@ -14,11 +14,11 @@
 
             <h2 class="blueText thickText biggerText">CICS Week Non-Commissioned Photoshoot</h2>
 
-            <p class="mediumText"></p>
+            <p class="mediumText">We shared a passion for photography even without a paycheck. We documented the 3-day event of the IT/IS department.</p>
         </article>
 
         <footer class="whiteText">
-            <p class="bigText thickText"></p>
+            <p class="bigText thickText">50/50 PHOTOGRAPHY</p>
             <p class="thickText">&#169; FIFTY FIFTY. All rights reserved</p>
         </footer>
     </body>
