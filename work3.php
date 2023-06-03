@@ -14,7 +14,7 @@
 
             <h2 class="blueText thickText biggerText">Governor's Cup</h2>
 
-            <p class="mediumText"></p>
+            <p class="mediumText">Chess Tournament "Governor's Cup" live video coverage in collaboration with MNN (Marinduque News Network). We were taken as an additional coverage team for the Chess Tournament for overseeing the live feed of the event along with MNN.</p>
         </article>
 
         <footer class="whiteText">
