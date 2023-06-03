@@ -12,9 +12,9 @@
         <article>
             <img src="assets/img/work4.jpeg">
 
-            <h2 class="blueText thickText biggerText"></h2>
+            <h2 class="blueText thickText biggerText">Sagala Night Coronation</h2>
 
-            <p class="mediumText"></p>
+            <p class="mediumText">Our group was booked for the whole day for the Sagala Night Coronation, it was the barangay officials that offered us with a bonus of 10%.</p>
         </article>
 
         <footer class="whiteText">
